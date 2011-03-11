@@ -2,6 +2,7 @@
   * apache ant http task
     * support basic authentication
     * support digest authentication
+    * support TLS/SSL via configuration (not JVM wide)
     * support GET/PUT/POST methods
     * support in-line PUT/POST entities or file based
     * support arbitrary headers
