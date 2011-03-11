@@ -3,5 +3,6 @@
 	<classpathentry excluding="**/.svn/*" kind="src" path="src/test"/>
 	<classpathentry excluding="**/.svn/*" kind="src" path="src/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/junit/junit-4.8.2.jar" sourcepath="lib/junit/junit-4.8.2-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
