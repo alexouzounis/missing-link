@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Apache 2.0
 
 = Apache 2.0 =
 
